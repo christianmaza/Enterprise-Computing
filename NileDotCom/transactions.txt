@@ -1,0 +1,33 @@
+230120211948, 198, "Box of 10 Sharpie Roller 0.5mm", 6.50, 6, 0.1, $35.10, 1/23/21, 07:48:05 PM EST
+230120211948, 14, "Stanley #2 Philips Screwdriver", 6.95, 7, 0.1, $43.79, 1/23/21, 07:48:05 PM EST
+230120211948, 22389, "Swingline Model B2200 stapler", 18.00, 8, 0.1, $129.60, 1/23/21, 07:48:05 PM EST
+23012021206, 14, "Stanley #2 Philips Screwdriver", 6.95, 2, 0.0, $13.90, 1/23/21, 08:06:09 PM EST
+23012021206, 22389, "Swingline Model B2200 stapler", 18.00, 4, 0.0, $72.00, 1/23/21, 08:06:09 PM EST
+23012021206, 198, "Box of 10 Sharpie Roller 0.5mm", 6.50, 4, 0.0, $26.00, 1/23/21, 08:06:09 PM EST
+230120212031, 14, "Stanley #2 Philips Screwdriver", 6.95, 5, 0.1, $31.28, 1/23/21, 08:31:59 PM EST
+230120212031, 22389, "Swingline Model B2200 stapler", 18.00, 6, 0.1, $97.20, 1/23/21, 08:31:59 PM EST
+230120212031, 198, "Box of 10 Sharpie Roller 0.5mm", 6.50, 4, 0.0, $26.00, 1/23/21, 08:31:59 PM EST
+230120212032, 14, "Stanley #2 Philips Screwdriver", 6.95, 5, 0.1, $31.28, 1/23/21, 08:32:41 PM EST
+230120212032, 22389, "Swingline Model B2200 stapler", 18.00, 5, 0.1, $81.00, 1/23/21, 08:32:41 PM EST
+230120212037, 14, "Stanley #2 Philips Screwdriver", 6.95, 6, 0.1, $37.53, 1/23/21, 08:37:13 PM EST
+230120212037, 22389, "Swingline Model B2200 stapler", 18.00, 3, 0.0, $54.00, 1/23/21, 08:37:56 PM EST
+230120212039, 14, "Stanley #2 Philips Screwdriver", 6.95, 6, 0.1, $37.53, 1/23/21, 08:39:00 PM EST
+230120212039, 198, "Box of 10 Sharpie Roller 0.5mm", 6.50, 8, 0.1, $46.80, 1/23/21, 08:39:00 PM EST
+230120212039, 89476, "Assos T-Evo shorts", 299.95, 1, 0.0, $299.95, 1/23/21, 08:39:00 PM EST
+240120211831, 14, "Stanley #2 Philips Screwdriver", 6.95, 7, 0.1, $43.79, 1/24/21, 06:31:33 PM EST
+240120211831, 22389, "Swingline Model B2200 stapler", 18.00, 5, 0.1, $81.00, 1/24/21, 06:31:33 PM EST
+240120211831, 198, "Box of 10 Sharpie Roller 0.5mm", 6.50, 2, 0.0, $13.00, 1/24/21, 06:31:33 PM EST
+240120211834, 47831, "8x10 picture frame", 4.95, 4, 0.0, $19.80, 1/24/21, 06:34:15 PM EST
+240120211834, 19981, "Pledge furniture polish 13oz", 6.50, 5, 0.1, $29.25, 1/24/21, 06:34:15 PM EST
+240120211834, 582913, "Look Keo 2 Max pedals", 135.00, 2, 0.0, $270.00, 1/24/21, 06:34:15 PM EST
+27012021119, 387, "Brachs butterscotch hard candy - 1 lb", 4.50, 5, 0.1, $20.25, 1/27/21, 11:09:38 AM EST
+27012021119, 23, "Tamiya 2oz paint - ferrari red", 2.39, 6, 0.1, $12.91, 1/27/21, 11:09:38 AM EST
+27012021119, 8543, "Ritchey 1 inch threaded headset - silver", 45.00, 4, 0.0, $180.00, 1/27/21, 11:09:38 AM EST
+270120211110, 1111, "Top Secret Twenty One - Janet Evanovich", 8.99, 2, 0.0, $17.98, 1/27/21, 11:10:38 AM EST
+270120211114, 2190, "Hefty 30 gal with handles - box 40", 19.00, 5, 0.1, $85.50, 1/27/21, 11:14:53 AM EST
+270120211114, 23, "Tamiya 2oz paint - ferrari red", 2.39, 2, 0.0, $4.78, 1/27/21, 11:14:53 AM EST
+270120211114, 113355, "The Bourne Identity - blu-ray", 15.95, 6, 0.1, $86.13, 1/27/21, 11:14:53 AM EST
+270120211115, 1111, "Top Secret Twenty One - Janet Evanovich", 8.99, 3, 0.0, $26.97, 1/27/21, 11:15:10 AM EST
+300120212117, 3451, "Oakley Jawbreaker sunglasses", 236.00, 2, 0.0, $472.00, 1/30/21, 09:17:43 PM EST
+300120212117, 234887, "2021 CSX train calendar", 12.95, 2, 0.0, $25.90, 1/30/21, 09:17:43 PM EST
+300120212117, 298765, "3x5 index cards - 100 count", 2.25, 7, 0.1, $14.18, 1/30/21, 09:17:43 PM EST
