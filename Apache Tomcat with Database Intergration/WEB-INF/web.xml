@@ -1,0 +1,48 @@
+<web-app>
+
+   <!-- General description of your Web application -->
+    <display-name>
+      Project 4
+   </display-name>
+
+   <description>
+      This is the web application for Project 4.
+   </description>
+
+   <!-- Servlet definitions -->
+   <servlet>
+      <servlet-name>dbserverlet</servlet-name>
+      <description>
+         A serverlet used to issue SQL commands and apply business logic.
+      </description>
+      
+      <servlet-class> SQLProcesser </servlet-class>
+
+      <init-param>
+    		   <param-name>databaseDriver</param-name>
+    	 	   <param-value>com.mysql.cj.jdbc.Driver</param-value>
+    		</init-param>
+    		
+    		<init-param>
+    		    <param-name>databaseName</param-name>
+    		    <param-value>jdbc:mysql://localhost:3306/project4</param-value>
+    		</init-param>
+    		
+    		<init-param>
+            <param-name>username</param-name>
+    	    	<param-value>root</param-value>
+    		</init-param>
+    		
+    		<init-param>
+    		    <param-name>password</param-name>
+    		    <param-value>INSERT PASSWORD HERE</param-value>
+    		</init-param>
+   </servlet>
+
+   <!-- Servlet mappings -->
+   <servlet-mapping>
+	<servlet-name>dbserverlet</servlet-name>
+	<url-pattern>/dbserverlet</url-pattern>
+   </servlet-mapping>
+</web-app>
+
